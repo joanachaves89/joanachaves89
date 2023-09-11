@@ -4,6 +4,6 @@
 - 📫 You can contact me by email.
 
 <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.jpg" alt="Java" width="200"/>
-<img src="https://www.pngfind.com/pngs/m/683-6834215_html-css-js-icon-hd-png-download.png" alt="JS" width="200"/>
+<img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" alt="JS" width="200"/>
 
 
