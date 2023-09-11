@@ -4,6 +4,6 @@
 - 📫 You can contact me by email.
 
 
-![image](https://github.com/joanachaves89/joanachaves89/assets/141234125/d30d17be-fd86-457e-9ebc-e7028527efd9)
+![JAVA](https://www.oracle.com/oce/press/assets/CONT6C95347B9ECC40CF8E7272A74FD80BDE/native/rc24-java-logo.gif)
 
 
