@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @joanachaves89
+- 👋 Hi, I’m @joanachaves89;
+- 🎖 I'm a Junior Developer looking for a job opportunity;
 - 👀 I’m interested in growing as a professional.
-- 💞️ I’m looking to collaborate on new projects.
 - 📫 You can contact me by email.
 
-<!---
-joanachaves89/joanachaves89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![image](https://github.com/joanachaves89/joanachaves89/assets/141234125/d30d17be-fd86-457e-9ebc-e7028527efd9)
+
+
