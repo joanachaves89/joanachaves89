@@ -9,7 +9,7 @@
 <img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" alt="maven" align="left" width="60"/>
 <img src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" alt="sql" align="left" width="60"/>
 <img src="https://www.eewee.fr/wp-content/uploads/2015/06/git.jpg" alt="git" align="left" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" align="left" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" align="left" width="100"/>
 <img src="https://www.seekpng.com/png/detail/141-1416157_jquery-png.png" alt="jquery" align="left" width="60"/>
 <img src="https://nipafx.dev/static/23189f1e22678ee47bbc308aebf25d6d/47126/junit-lambda.png" alt="junit" align="left" width="60"/>
 <img src="https://media.licdn.com/dms/image/C4E12AQGLgHQJ-p-pGA/article-cover_image-shrink_600_2000/0/1647279936820?e=2147483647&v=beta&t=XdkKGFZ_Ueky7jRxq7qndneCje7Xu3pOaGsST6ETTPg" alt="srum" align="left" width="40"/>
