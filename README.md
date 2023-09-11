@@ -12,4 +12,4 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" align="left" width="80"/>
 <img src="https://www.seekpng.com/png/detail/141-1416157_jquery-png.png" alt="jquery" align="left" width="60"/>
 <img src="https://nipafx.dev/static/23189f1e22678ee47bbc308aebf25d6d/47126/junit-lambda.png" alt="junit" align="left" width="80"/>
-<img src="https://media.licdn.com/dms/image/C4E12AQGLgHQJ-p-pGA/article-cover_image-shrink_600_2000/0/1647279936820?e=2147483647&v=beta&t=XdkKGFZ_Ueky7jRxq7qndneCje7Xu3pOaGsST6ETTPg" alt="srum" align="left" width="40"/>
+<img src="https://media.licdn.com/dms/image/C4E12AQGLgHQJ-p-pGA/article-cover_image-shrink_600_2000/0/1647279936820?e=2147483647&v=beta&t=XdkKGFZ_Ueky7jRxq7qndneCje7Xu3pOaGsST6ETTPg" alt="srum" align="left" width="60"/>
