@@ -4,5 +4,6 @@
 - 📫 You can contact me by email.
 
 <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.jpg" alt="Java">
+<img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="JS">
 
 
