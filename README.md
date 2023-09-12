@@ -4,7 +4,7 @@
 - 📫 You can reach me on e-mail <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/original/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="gmail" width="30"/> <img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="in" width="20"/>
 
 
-<hr size="10" width="50%" align="center" noshade>
+<hr size="10" width="100%" align="center" noshade>
 
 <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="java" align="left" width="60"/>
 <img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" align="left" alt="js" width="45"/>
