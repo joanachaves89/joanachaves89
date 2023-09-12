@@ -5,10 +5,12 @@
 
 <hr size="10" width="100%" align="center" noshade>
 <p></p>
-<h2>Technologies I know and I'm learning</h2>
+<h1>Technologies I know and I'm learning</h2>
 
+<h2>Backend</h2>
+<hr size="10" width="100%" align="center" noshade>
 
-<img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="java" align="left" width="60"/>
+<img src="https://e0.pxfuel.com/wallpapers/411/344/desktop-wallpaper-black-java-for-tech-java-programming.jpg" alt="java" align="left" width="60"/>
 <img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" align="left" alt="js" width="45"/>
 <img src="https://webhostinggeeks.com/blog/wp-content/uploads/2023/05/Apache-Tomcat-Web-Server.png" alt="tomcat" align="left" width="70"/>
 <img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" alt="maven" align="left" width="60"/>
