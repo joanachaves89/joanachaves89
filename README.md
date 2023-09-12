@@ -15,5 +15,5 @@
 <img src="https://www.eewee.fr/wp-content/uploads/2015/06/git.jpg" alt="git" align="left" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" align="left" width="80"/>
 <img src="https://www.seekpng.com/png/detail/141-1416157_jquery-png.png" alt="jquery" align="left" width="60"/>
-<img src="https://nipafx.dev/static/23189f1e22678ee47bbc308aebf25d6d/47126/junit-lambda.png" alt="junit" align="left" width="80"/>
+<img src="https://techvccloud.mediacdn.vn/280518386289090560/2022/7/1/junit-la-gi-16566586168441518472779-114-0-451-600-crop-165665863502931026332.jpg" alt="junit" align="left" width="80"/>
 <img src="https://miro.medium.com/v2/resize:fit:554/1*42aKSdKAWZ3VtqT5ICd82w.png" alt="nodejs" align="left" width="45"/>
