@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joanachaves89;
 - 🎖 I'm a Junior Developer looking for a job opportunity;
 - 👀 I’m interested in growing as a professional.
-- 📫 You can reach me on e-mail <img src="[https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8fJTn8EnQDW_rvwrCz6oR3SxXOFZx7hKj2GCWCJLui4usQH9T](https://www.businessinsider.in/thumb.cms?msid=74324892&width=1200&height=900)" alt="gmail" width="40"/>
+- 📫 You can reach me on e-mail <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/original/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="gmail" width="40"/>
 
 <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="java" align="left" width="60"/>
 <img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" align="left" alt="js" width="45"/>
