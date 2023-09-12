@@ -1,11 +1,8 @@
 
-<div style="text-align:center">
+<h1>
   Hi there, My name is Joana Chaves 🙋‍♀️
-  <p></p>
-  <hr size="10" width="50%" align="center" noshade>
-</div>
+</h1>
 
-- 👋 Hi, I’m @joanachaves89;
 - 🎖 I'm a Junior Developer looking for a job opportunity;
 - 👀 I’m interested in growing as a professional.
 - 📫 You can reach me on e-mail <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/original/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="gmail" width="30"/> <img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="in" width="20"/>
