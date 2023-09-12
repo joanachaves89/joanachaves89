@@ -9,11 +9,12 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrB2ADflXqUpujRD6OCpFND5qrrrC2XfanH-8ghN7YMjUJByWXqZ7GQ4FmGhJwk1f3c0&usqp=CAU" alt="java" align="left" width="70"/>
 <img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" align="left" alt="js" width="45"/>
+<img src="https://rossmann.tech/files/__post_square/reactjs.webp" align="left" alt="react" width="50"/>
 <img src="https://webhostinggeeks.com/blog/wp-content/uploads/2023/05/Apache-Tomcat-Web-Server.png" alt="tomcat" align="left" width="70"/>
 <img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" alt="maven" align="left" width="60"/>
 <img src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" alt="sql" align="left" width="60"/>
 <img src="https://www.eewee.fr/wp-content/uploads/2015/06/git.jpg" alt="git" align="left" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" align="left" width="80"/>
 <img src="https://www.seekpng.com/png/detail/141-1416157_jquery-png.png" alt="jquery" align="left" width="60"/>
-<img src="https://techvccloud.mediacdn.vn/280518386289090560/2022/7/1/junit-la-gi-16566586168441518472779-114-0-451-600-crop-165665863502931026332.jpg" alt="junit" align="left" width="80"/>
+<img src="https://techvccloud.mediacdn.vn/280518386289090560/2022/7/1/junit-la-gi-16566586168441518472779-114-0-451-600-crop-165665863502931026332.jpg" alt="junit" align="left" width="60"/>
 <img src="https://miro.medium.com/v2/resize:fit:554/1*42aKSdKAWZ3VtqT5ICd82w.png" alt="nodejs" align="left" width="45"/>
