@@ -2,6 +2,7 @@
 - 🎖 I'm a Junior Developer looking for a job opportunity;
 - 👀 I’m interested in growing as a professional.
 - 📫 You can reach me on e-mail <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/original/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="gmail" width="30"/> <img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="in" width="20"/>
+- ⚡ Fun fact about me, I studied criminology. The small details always make the difference 🕵️
 
 
 <p></p>
