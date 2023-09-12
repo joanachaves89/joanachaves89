@@ -7,7 +7,7 @@
 <p></p>
 <h2>Technologies I know and I'm learning</h2>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrB2ADflXqUpujRD6OCpFND5qrrrC2XfanH-8ghN7YMjUJByWXqZ7GQ4FmGhJwk1f3c0&usqp=CAU" alt="java" align="left" width="70"/>
+<img src="https://i.pinimg.com/564x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="java" align="left" width="70"/>
 <img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" align="left" alt="js" width="45"/>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/31182514/logo-react-icon.png" align="left" alt="react" width="50"/>
 <img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T610A1PA3685PT17X57Y27D1032915308W13553H16263/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/apache-tomcat-bandana.jpg" alt="tomcat" align="left" width="40"/>
