@@ -7,7 +7,7 @@
 <p></p>
 <h2>Technologies I know and I'm learning</h2>
 
-<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.jpg" alt="java" align="left" width="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrB2ADflXqUpujRD6OCpFND5qrrrC2XfanH-8ghN7YMjUJByWXqZ7GQ4FmGhJwk1f3c0&usqp=CAU" alt="java" align="left" width="60"/>
 <img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" align="left" alt="js" width="45"/>
 <img src="https://webhostinggeeks.com/blog/wp-content/uploads/2023/05/Apache-Tomcat-Web-Server.png" alt="tomcat" align="left" width="70"/>
 <img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" alt="maven" align="left" width="60"/>
