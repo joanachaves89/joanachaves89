@@ -1,3 +1,10 @@
+
+<div style="text-align:center">
+  Hi there, My name is Joana Chaves 🙋‍♀️
+  <p></p>
+  <hr size="10" width="50%" align="center" noshade>
+</div>
+
 - 👋 Hi, I’m @joanachaves89;
 - 🎖 I'm a Junior Developer looking for a job opportunity;
 - 👀 I’m interested in growing as a professional.
@@ -18,5 +25,6 @@
 <img src="https://www.eewee.fr/wp-content/uploads/2015/06/git.jpg" alt="git" align="left" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" align="left" width="80"/>
 <img src="https://www.seekpng.com/png/detail/141-1416157_jquery-png.png" alt="jquery" align="left" width="60"/>
+<p></p>
 <img src="https://techvccloud.mediacdn.vn/280518386289090560/2022/7/1/junit-la-gi-16566586168441518472779-114-0-451-600-crop-165665863502931026332.jpg" alt="junit" align="left" width="70"/>
 <img src="https://miro.medium.com/v2/resize:fit:554/1*42aKSdKAWZ3VtqT5ICd82w.png" alt="nodejs" align="left" width="45"/>
