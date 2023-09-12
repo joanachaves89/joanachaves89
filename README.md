@@ -3,12 +3,9 @@
 - 👀 I’m interested in growing as a professional.
 - 📫 You can reach me on e-mail <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/original/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="gmail" width="30"/> <img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Icon-Png.png" alt="in" width="20"/>
 
-<hr size="10" width="100%" align="center" noshade>
-<p></p>
-<h1>Technologies I know and I'm learning</h2>
 
-<h2>Backend</h2>
-<hr size="10" width="100%" align="center" noshade>
+<p></p>
+<h2>Technologies I know and I'm learning</h2>
 
 <img src="https://e0.pxfuel.com/wallpapers/411/344/desktop-wallpaper-black-java-for-tech-java-programming.jpg" alt="java" align="left" width="60"/>
 <img src="https://p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" align="left" alt="js" width="45"/>
