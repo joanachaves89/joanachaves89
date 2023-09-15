@@ -7,9 +7,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<div id="title" align="center">
 <h1>
   Hi there, My name is Joana Chaves 🙋‍♀️
 </h1>
+</div>
 
 - 🎖 I'm a Junior Developer looking for a job opportunity;
 - 👀 I’m interested in growing as a professional;
@@ -19,7 +22,7 @@
 
 
 <p></p>
-<h2>Technologies I know and I'm learning</h2>
+<h2> ⚒️ Technologies:</h2>
 
 <img src="https://i.pinimg.com/564x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="java" align="left" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" align="left" alt="js" width="45"/>
