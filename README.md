@@ -40,6 +40,6 @@
 <br />
 <h2> 🔥 STATS : </h2>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zurc99&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanachaves89&theme=dark&background=000000)](https://git.io/streak-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zurc99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Joana Chaves GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=joanachaves89&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/joanachaves89)
